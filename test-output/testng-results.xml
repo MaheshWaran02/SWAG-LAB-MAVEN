@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-08T06:36:04Z" name="Default suite" finished-at="2023-05-08T06:36:07Z" duration-ms="3089">
+    <groups>
+    </groups>
+    <test started-at="2023-05-08T06:36:04Z" name="Default test" finished-at="2023-05-08T06:36:07Z" duration-ms="3089">
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="database()[pri:0, instance:testcases.LoginTest@119cbf96]" started-at="2023-05-08T06:36:04Z" name="database" finished-at="2023-05-08T06:36:05Z" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- database -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testcases.LoginTest@119cbf96]" started-at="2023-05-08T06:36:05Z" name="SetUp" finished-at="2023-05-08T06:36:06Z" duration-ms="1356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="test1()[pri:0, instance:testcases.LoginTest@119cbf96]" started-at="2023-05-08T06:36:06Z" name="test1" finished-at="2023-05-08T06:36:06Z" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="quite()[pri:0, instance:testcases.LoginTest@119cbf96]" started-at="2023-05-08T06:36:06Z" name="quite" finished-at="2023-05-08T06:36:06Z" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quite -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testcases.LoginTest@119cbf96]" started-at="2023-05-08T06:36:06Z" name="SetUp" finished-at="2023-05-08T06:36:07Z" duration-ms="985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="test2()[pri:0, instance:testcases.LoginTest@119cbf96]" started-at="2023-05-08T06:36:07Z" name="test2" finished-at="2023-05-08T06:36:07Z" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="quite()[pri:0, instance:testcases.LoginTest@119cbf96]" started-at="2023-05-08T06:36:07Z" name="quite" finished-at="2023-05-08T06:36:07Z" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quite -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
